@@ -133,7 +133,7 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "Landmark Colonial",
-        "headerSubtitle": "Mercenary Company",
+        "headerSubtitle": "Security Ops",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Detachment: Leo",
       },
