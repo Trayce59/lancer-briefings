@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Voodoo",
+          "alias": "Baba Ntwadumela",
+          "code": "c50869c8-08c9-4521-a96b-4e1c4f7db780//NDL-C-BLIND-DECEMBER//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Nostromo"
         },
         {
           "callsign": "Kal",
