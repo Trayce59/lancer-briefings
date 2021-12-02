@@ -129,8 +129,8 @@ export default {
           "alias": "Tsuyoshi Seidou",
           "code": "4c8f1b8f-b9c7-4a3c-976d-19c9ee63bac2//NDL-C-DELTA-VOID//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Cerberus"
+          "frame": "Sagarmatha",
+          "mech": "Slag"
         },
         
       ],
