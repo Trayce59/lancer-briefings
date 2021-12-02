@@ -114,15 +114,23 @@ export default {
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Sniper"
+          "mech": "Speedy"
         },
         {
-          "callsign": "Test",
-          "alias": "Rodgers",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Hound",
+          "alias": "Felix",
+          "code": "44c742215-98cc-4f2a-b925-f21aacfc95fc//NDL-C-SATELLITE-TOWER//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Warrior"
+          "mech": "Cerberus"
+        },
+        {
+          "callsign": "Hunk",
+          "alias": "Tsuyoshi Seidou",
+          "code": "4c8f1b8f-b9c7-4a3c-976d-19c9ee63bac2//NDL-C-DELTA-VOID//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Cerberus"
         },
         
       ],
