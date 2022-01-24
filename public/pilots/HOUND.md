@@ -1,1 +1,6 @@
-Infor coming soon...
+**Felix "Hound" Starborn** built a career in a ex-pirate migrant fleet subcontracted under **Albatross** known as the Wolfguard. Canine symbolism adopted from cradle mythology, legend and history adorned his adoptive family clan (Starborn being a common last name for space station orphans) - and once of age Felix was declared **'Hound'** for his analytical, scouting, and charting abilities. 
+
+Mild mannered and quirky, **Hound** is an erudite who authored hostile and non-hostile tactical takedowns of small to mid-size pirate organizations operating within Union space with the Wolfguard reaping the benefits of one of their up and coming tacticians. However, **Hound's** relationship with the Wolfguard began to sour as the mercenary clan's contracts negotiations with **Albatross** became more aggressive in addition to an uptick of collateral damage in Wolfguard skirmishes with a change in leadership.
+
+**Hound** shopped his dossier through **Albatross** networks on the Omninet and departed Wolfguard once a **SSC** recruiter informed of **Landmark Colonial** and the opportunity to join their CRT program should he passed further evaluation and training program.
+Departing from the Wolfguard caused lasting tension in his wake, however, **Hound** knew that his only chance to distance himself from mercenary work and to join a meaningful cause lied with joining the CRT and helping bring more peace among stars.
