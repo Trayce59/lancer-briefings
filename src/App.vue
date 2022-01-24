@@ -124,7 +124,7 @@ export default {
         },
         {
           "callsign": "Hound",
-          "alias": "Felix",
+          "alias": "Felix Starborn",
           "code": "44c742215-98cc-4f2a-b925-f21aacfc95fc//NDL-C-SATELLITE-TOWER//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
