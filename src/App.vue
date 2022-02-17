@@ -94,9 +94,14 @@ export default {
       "events": "002",
       "missions": [
         {
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "started"
+        },
+        {
           "slug": "002",
           "name": "Vigilant Gaze",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "001",
