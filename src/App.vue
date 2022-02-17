@@ -96,7 +96,7 @@ export default {
         {
           "slug": "003",
           "name": "Floodgate",
-          "status": "started"
+          "status": "start"
         },
         {
           "slug": "002",
