@@ -115,33 +115,32 @@ export default {
           "callsign": "Voodoo",
           "alias": "Baba Ntwadumela",
           "code": "c50869c8-08c9-4521-a96b-4e1c4f7db780//NDL-C-BLIND-DECEMBER//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Nostromo"
+          "corpro": "SSC",
+          "frame": "Atlas",
+          "mech": "An Echo Resounding"
         },
         {
           "callsign": "EXO",
           "alias": "Masters",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Speedy"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "Overwatch"
         },
         {
           "callsign": "Hound",
           "alias": "Felix Starborn",
           "code": "44c742215-98cc-4f2a-b925-f21aacfc95fc//NDL-C-SATELLITE-TOWER//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Cerberus"
+          "corpro": "IPS-N",
+          "frame": "Drake",
+          "mech": "Mongrel"
         },
         {
           "callsign": "Hunk",
           "alias": "Tsuyoshi Seidou",
           "code": "4c8f1b8f-b9c7-4a3c-976d-19c9ee63bac2//NDL-C-DELTA-VOID//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Slag"
+          "corpro": "GMSIPS-Nagarmatha",
+          "mech": "Slug"
         },
         
       ],
