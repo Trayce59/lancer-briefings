@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "004",
-          "name": "Floodgate",
+          "name": "Rallying Cry",
           "status": "start"
         },
         {
