@@ -89,14 +89,19 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
-      "current_md": "003",
-      "events": "003",
+      "mission_slug": "004",
+      "current_md": "004",
+      "events": "004",
       "missions": [
+        {
+          "slug": "004",
+          "name": "Floodgate",
+          "status": "start"
+        },
         {
           "slug": "003",
           "name": "Floodgate",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002",
@@ -131,15 +136,16 @@ export default {
           "callsign": "Hound",
           "alias": "Felix Starborn",
           "code": "44c742215-98cc-4f2a-b925-f21aacfc95fc//NDL-C-SATELLITE-TOWER//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "IPS-N",
-          "frame": "Drake",
-          "mech": "Mongrel"
+          "corpro": "HORUS",
+          "frame": "Hydra",
+          "mech": "Cerberus"
         },
         {
           "callsign": "Hunk",
           "alias": "Tsuyoshi Seidou",
           "code": "4c8f1b8f-b9c7-4a3c-976d-19c9ee63bac2//NDL-C-DELTA-VOID//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMSIPS-Nagarmatha",
+          "corpro": "IPS-N",
+          "frame": "Drake",
           "mech": "Slug"
         },
         
